@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DropdownList_CountriesDemo_MVCCore.props" />
+</Project>

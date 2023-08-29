@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DropdownList_CountriesDemo_MVCCore.props" />
+</Project>
